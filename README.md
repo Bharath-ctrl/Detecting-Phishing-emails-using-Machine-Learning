@@ -15,6 +15,6 @@ Steps(application) to run the project as per the names given in the project:
 3: check in the chrome extension and click on report
 ![image](https://user-images.githubusercontent.com/63045800/183746869-28965ee7-2769-4f00-87ed-f204493d02db.png)
 
-
+For the machine learning part, I have used Naive bayes multinomial for the text classification and Random Forest classifier for the URL Classification. The data to check is got from the HTML Body of the email from the iMAP server.
 Here is the report which we have prepared for the college:
 [final report .pdf](https://github.com/Bharath-ctrl/Detecting-Phishing-emails-using-Machine-Learning/files/9294067/final.report.pdf)
